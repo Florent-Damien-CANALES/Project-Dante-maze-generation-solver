@@ -24,7 +24,7 @@ Exemple d’un labyrinthe généré et résolu :
 #    # #    #
 #############
 ```
-S : Point de départ
-E : Sortie du labyrinthe
-'#' : Mur
+S : Point de départ  
+E : Sortie du labyrinthe  
+'#' : Mur  
 : Chemin accessible
